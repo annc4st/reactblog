@@ -1,8 +1,8 @@
 # My Blog react app
 
 I built this project in order to learn and practice React apps by following online tutorial and adding new functionality instead of the deprecated hooks and functions in React version 6, i.e. 
-*useHistory* >> *useNavigate*,
-*useSwitch* >> *Routes*.
+- *useHistory* >> *useNavigate*,
+- *useSwitch* >> *Routes*.
 
 ## Creating App
 
