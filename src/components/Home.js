@@ -3,6 +3,7 @@ import useFetch from "./useFetch";
 
 
 const Home = () => {
+    // custom hook
     const {data: blogs, isPending, error } = useFetch('http://localhost:8000/blogs'); //as a param we need to pass this endpoint
 
     return ( 
